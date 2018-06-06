@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Navbar from './components/Navbar'
 import Wrapper from './components/Wrapper';
-import Title from './components/Title';
 import MatchCard from './components/MatchCard';
 import cards from "./cards.json";
 import Column from "./Column.js";
